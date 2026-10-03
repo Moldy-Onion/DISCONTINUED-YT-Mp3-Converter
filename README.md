@@ -16,4 +16,4 @@ Disclaimer:
 This script can currently only be ran in the terminal this won't effect people using the executable file.
 This script has not been tested for linux and mac os as I made it on windows.
 I or any collaberators are not responsible if this is used for the downloading and distribution of copy righted music.
-Ignore the error messag on the executable and in the terminal downloading works.
+Ignore the error message on the executable and in the terminal downloading works.
